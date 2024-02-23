@@ -1,2 +1,2 @@
-# MeteoNow-Projet1
- Premier Projet ElectronJS - Création d'une application Météo
+# MétéoNow-Projet1
+Premier Projet ElectronJS - Création d'une application Météo

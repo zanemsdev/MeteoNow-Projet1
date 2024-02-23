@@ -1,0 +1,26 @@
+{
+  "name": "meteonow",
+  "version": "1.0.0",
+  "description": "Premier Projet ElectronJS - Création d'une application Météo",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zanemsdev/MeteoNow-Projet1.git"
+  },
+  "author": "Remy.C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zanemsdev/MeteoNow-Projet1/issues"
+  },
+  "homepage": "https://github.com/zanemsdev/MeteoNow-Projet1#readme",
+  "devDependencies": {
+    "electron": "^29.0.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}

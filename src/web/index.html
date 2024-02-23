@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MétéoNow</title>
+</head>
+
+<body>
+    <h1 id="title">MétéoNow</h1>
+    <section class="info">
+
+        <div class="container" id="form">
+            <label for="inputCity">Ville :</label><br>
+            <input type="text" id="inputCity" name="inputCity"><br>
+            <button type="submit" onclick="SendFetch()">Voir</button>
+        </div>
+        <br>
+        <div class="container">
+            <div class="boxContainer">
+                <div id="city" class="box"></div>
+                <div id="temp" class="box"></div>
+                <div id="humidity" class="box"></div>
+                <div id="wind" class="box"></div>
+            </div>
+        </div>
+
+    </section>
+    <script src="./index.js"></script>
+</body>
+</html>
