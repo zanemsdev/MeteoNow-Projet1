@@ -7,6 +7,7 @@ function createWindow () {
     height: 600,
   })
 
+  //win.loadURL('https://sterndev.fr')
   win.loadFile('./src/web/index.html')
 }
 
