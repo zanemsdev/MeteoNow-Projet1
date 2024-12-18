@@ -9,4 +9,4 @@ Premier Projet ElectronJS - Création d'une application Météo
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co/C0BS5Fn)
+![App Screenshot](https://i.ibb.co/7yv0JFG/Screenshot-2024-12-18-at-08-29-48.png)
