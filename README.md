@@ -6,3 +6,7 @@ Premier Projet ElectronJS - Création d'une application Météo
 
 ## Lancement Environnement Développement
 ```npm start```
+
+## Screenshots
+
+![App Screenshot](https://ibb.co/C0BS5Fn)
